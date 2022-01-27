@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "product",
+			"path": "..\\..\\BootStrap\\bootstrap-5.1.3-examples\\product"
+		},
+		{
+			"name": "UDEMYCURCE",
+			"path": "..\\UDEMYCURCE"
+		},
+		{
+			"path": "..\\..\\TinDog-Start-master"
+		}
+	],
+	"settings": {}
+}
